@@ -1,0 +1,1236 @@
+[
+  {
+    "mac": "B8-69-F4-CE-5B-2B",
+    "timestamp": "946681656",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Routerboard.com",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681656",
+        "last_time": "946690437",
+        "reps_count": 135,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "0C-9D-92-6E-4F-5E",
+    "timestamp": "946681656",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "ASUSTek COMPUTER INC.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681656",
+        "last_time": "946690435",
+        "reps_count": 167,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "C4-B3-01-CC-4E-7B",
+    "timestamp": "946681657",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Apple, Inc.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681657",
+        "last_time": "946690432",
+        "reps_count": 19,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "2C-D0-66-23-67-C8",
+    "timestamp": "946681658",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681658",
+        "last_time": "946685270",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "14-36-C6-CB-B7-C2",
+    "timestamp": "946681660",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Lenovo Mobile Communication Technology Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681660",
+        "last_time": "946686514",
+        "reps_count": 4,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "A8-F9-4B-17-02-20",
+    "timestamp": "946681660",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681660",
+        "last_time": "946690427",
+        "reps_count": 13,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "AC-E3-42-B7-1B-22",
+    "timestamp": "946681661",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681661",
+        "last_time": "946685258",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "7C-03-AB-F0-28-16",
+    "timestamp": "946681663",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681663",
+        "last_time": "946690426",
+        "reps_count": 17,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "D4-11-A3-81-93-D9",
+    "timestamp": "946681663",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681663",
+        "last_time": "946690433",
+        "reps_count": 9,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "10-B1-F8-2C-BE-FB",
+    "timestamp": "946681663",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681663",
+        "last_time": "946690425",
+        "reps_count": 6,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "4C-F2-02-C2-03-7E",
+    "timestamp": "946681667",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681667",
+        "last_time": "946686517",
+        "reps_count": 9,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "C8-02-8F-95-D8-2D",
+    "timestamp": "946681669",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Nova Electronics (Shanghai) Co., Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681669",
+        "last_time": "946684149",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "88-78-73-99-EC-0B",
+    "timestamp": "946681676",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Intel Corporate",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681676",
+        "last_time": "946685307",
+        "reps_count": 4,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "A8-F9-4B-17-02-30",
+    "timestamp": "946681680",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681680",
+        "last_time": "946690412",
+        "reps_count": 10,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "C8-02-8F-95-A7-B9",
+    "timestamp": "946681837",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Nova Electronics (Shanghai) Co., Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681837",
+        "last_time": "946685958",
+        "reps_count": 5,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "4C-49-E3-F9-FE-81",
+    "timestamp": "946681842",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681842",
+        "last_time": "946687054",
+        "reps_count": 6,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "84-AB-1A-C6-DB-17",
+    "timestamp": "946681847",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Apple, Inc.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681847",
+        "last_time": "946681847",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "60-AB-67-BA-89-24",
+    "timestamp": "946681850",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946681850",
+        "last_time": "946685962",
+        "reps_count": 18,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "CC-2D-E0-A6-33-12",
+    "timestamp": "946684033",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Routerboard.com",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684033",
+        "last_time": "946690429",
+        "reps_count": 22,
+        "ssid": [
+          "MikroTik"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "E0-D9-E3-49-C1-A0",
+    "timestamp": "946684036",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684036",
+        "last_time": "946690435",
+        "reps_count": 29,
+        "ssid": [
+          "Eltex"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "B8-27-EB-18-45-D5",
+    "timestamp": "946684093",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Raspberry Pi Foundation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684093",
+        "last_time": "946687054",
+        "reps_count": 10,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "9C-80-DF-3F-07-7B",
+    "timestamp": "946684095",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Arcadyan Technology Corporation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684095",
+        "last_time": "946684993",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "F4-60-E2-EF-C5-FE",
+    "timestamp": "946684095",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684095",
+        "last_time": "946684125",
+        "reps_count": 6,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "B8-27-EB-62-EF-BF",
+    "timestamp": "946684095",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Raspberry Pi Foundation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684095",
+        "last_time": "946690410",
+        "reps_count": 10,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "A8-9C-ED-53-A9-6D",
+    "timestamp": "946684098",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684098",
+        "last_time": "946690412",
+        "reps_count": 5,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "60-14-66-CB-FC-56",
+    "timestamp": "946684105",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "zte corporation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684105",
+        "last_time": "946684605",
+        "reps_count": 3,
+        "ssid": [
+          "Eltex-Guest"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "D4-D2-52-6E-B5-7C",
+    "timestamp": "946684108",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Intel Corporate",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684108",
+        "last_time": "946685307",
+        "reps_count": 4,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "94-7B-E7-95-3C-A5",
+    "timestamp": "946684111",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684111",
+        "last_time": "946690437",
+        "reps_count": 18,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E0-D9-E3-4A-F5-E0",
+    "timestamp": "946684123",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684123",
+        "last_time": "946690437",
+        "reps_count": 6,
+        "ssid": [
+          "LR2-vap0-N-t-E"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "00-1D-D9-17-E0-F9",
+    "timestamp": "946684125",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Hon Hai Precision Ind. Co.,Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684125",
+        "last_time": "946686515",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "38-B1-DB-25-65-63",
+    "timestamp": "946684125",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Hon Hai Precision Ind. Co.,Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684125",
+        "last_time": "946690415",
+        "reps_count": 8,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "C8-02-8F-95-A7-6A",
+    "timestamp": "946684130",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Nova Electronics (Shanghai) Co., Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684130",
+        "last_time": "946684130",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "40-23-43-32-8A-F9",
+    "timestamp": "946684135",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684135",
+        "last_time": "946690431",
+        "reps_count": 7,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "DC-41-5F-08-97-D9",
+    "timestamp": "946684137",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Apple, Inc.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684137",
+        "last_time": "946684137",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "C8-02-8F-95-D5-F0",
+    "timestamp": "946684140",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Nova Electronics (Shanghai) Co., Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684140",
+        "last_time": "946685301",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "A8-E5-44-75-AA-B7",
+    "timestamp": "946684146",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684146",
+        "last_time": "946685954",
+        "reps_count": 10,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "8C-B8-4A-20-6E-FE",
+    "timestamp": "946684146",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "SAMSUNG ELECTRO-MECHANICS(THAILAND)",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684146",
+        "last_time": "946690279",
+        "reps_count": 6,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "CC-9F-7A-A4-D9-BD",
+    "timestamp": "946684150",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Chiun Mai Communication Systems, Inc",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684150",
+        "last_time": "946685229",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "30-10-B3-60-F3-F5",
+    "timestamp": "946684153",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Liteon Technology Corporation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684153",
+        "last_time": "946684153",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E0-D9-E3-4D-66-E0",
+    "timestamp": "946684155",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684155",
+        "last_time": "946685285",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "0C-9D-92-6E-3F-78",
+    "timestamp": "946684155",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "ASUSTek COMPUTER INC.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684155",
+        "last_time": "946684864",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "EC-08-6B-96-1A-3D",
+    "timestamp": "946684161",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684161",
+        "last_time": "946685240",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "B4-F6-1C-A0-C5-46",
+    "timestamp": "946684599",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Apple, Inc.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684599",
+        "last_time": "946684607",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "A4-45-19-0B-8C-2E",
+    "timestamp": "946684600",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684600",
+        "last_time": "946690418",
+        "reps_count": 4,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "4C-63-71-FD-92-19",
+    "timestamp": "946684606",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684606",
+        "last_time": "946690436",
+        "reps_count": 29,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "0C-B6-D2-B2-3E-95",
+    "timestamp": "946684696",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "D-Link International",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684696",
+        "last_time": "946690356",
+        "reps_count": 8,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E0-DC-FF-F4-2B-C3",
+    "timestamp": "946684697",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684697",
+        "last_time": "946690408",
+        "reps_count": 12,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "A8-DB-03-C3-F1-6F",
+    "timestamp": "946684698",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "SAMSUNG ELECTRO-MECHANICS(THAILAND)",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684698",
+        "last_time": "946690267",
+        "reps_count": 7,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "64-76-BA-A5-8F-DE",
+    "timestamp": "946684855",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Apple, Inc.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684855",
+        "last_time": "946690279",
+        "reps_count": 16,
+        "ssid": [
+          "GPN-WiFi"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "80-30-49-41-D9-EB",
+    "timestamp": "946684864",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Liteon Technology Corporation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684864",
+        "last_time": "946685299",
+        "reps_count": 14,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E8-28-C1-CE-B8-9F",
+    "timestamp": "946684867",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684867",
+        "last_time": "946684867",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "C8-02-8F-95-D9-38",
+    "timestamp": "946684995",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Nova Electronics (Shanghai) Co., Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946684995",
+        "last_time": "946684995",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "90-94-97-9E-24-8B",
+    "timestamp": "946685005",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685005",
+        "last_time": "946690427",
+        "reps_count": 19,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "00-A0-C9-14-C8-50",
+    "timestamp": "946685011",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Intel Corporation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685011",
+        "last_time": "946685011",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "2C-FD-A1-CE-4A-27",
+    "timestamp": "946685193",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "ASUSTek COMPUTER INC.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685193",
+        "last_time": "946685193",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "BC-DD-C2-80-D0-D2",
+    "timestamp": "946685200",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Espressif Inc.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685200",
+        "last_time": "946685273",
+        "reps_count": 2,
+        "ssid": [
+          "LU44909"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "08-78-08-E1-1C-A4",
+    "timestamp": "946685201",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685201",
+        "last_time": "946685203",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "28-CD-C4-7A-35-0B",
+    "timestamp": "946685247",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685247",
+        "last_time": "946685307",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "D8-68-C3-82-98-DD",
+    "timestamp": "946685263",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685263",
+        "last_time": "946685264",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "6C-C7-EC-F2-08-29",
+    "timestamp": "946685290",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "SAMSUNG ELECTRO-MECHANICS(THAILAND)",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685290",
+        "last_time": "946690351",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "94-53-30-05-6C-D5",
+    "timestamp": "946685298",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Hon Hai Precision Ind. Co.,Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685298",
+        "last_time": "946685303",
+        "reps_count": 4,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "A8-9C-ED-72-06-33",
+    "timestamp": "946685320",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685320",
+        "last_time": "946685320",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "50-F0-D3-7F-7C-BF",
+    "timestamp": "946685954",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685954",
+        "last_time": "946685955",
+        "reps_count": 2,
+        "ssid": [
+          "test"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "08-EC-A9-3E-37-30",
+    "timestamp": "946685955",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685955",
+        "last_time": "946685955",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "8C-99-E6-D8-B1-B1",
+    "timestamp": "946685956",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "TCT mobile ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685956",
+        "last_time": "946685956",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "58-00-E3-6F-C9-13",
+    "timestamp": "946685958",
+    "type_bitmask": 6,
+    "status": "confirmed",
+    "vendor": "Liteon Technology Corporation",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685958",
+        "last_time": "946686922",
+        "reps_count": 6,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E4-A7-C5-6B-7C-3C",
+    "timestamp": "946685962",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946685962",
+        "last_time": "946685962",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "B4-3A-28-31-34-1B",
+    "timestamp": "946686515",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946686515",
+        "last_time": "946690426",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E8-28-C1-E1-10-D5",
+    "timestamp": "946686919",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946686919",
+        "last_time": "946686919",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "98-8D-46-E0-F9-E8",
+    "timestamp": "946687053",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Intel Corporate",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946687053",
+        "last_time": "946690419",
+        "reps_count": 2,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E8-28-C1-DF-81-79",
+    "timestamp": "946687055",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946687055",
+        "last_time": "946687055",
+        "reps_count": 1,
+        "ssid": [
+          "EasyMeshBH-EdU7llTFM"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "24-4B-03-7F-53-36",
+    "timestamp": "946690278",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946690278",
+        "last_time": "946690278",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E8-28-C1-CF-D9-13",
+    "timestamp": "946690281",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946690281",
+        "last_time": "946690404",
+        "reps_count": 3,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E0-D9-E3-52-EE-C0",
+    "timestamp": "946690351",
+    "type_bitmask": 1,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946690351",
+        "last_time": "946690351",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  },
+  {
+    "mac": "E8-28-C1-DF-82-91",
+    "timestamp": "946690357",
+    "type_bitmask": 2,
+    "status": "unconfirmed",
+    "vendor": "Eltex Enterprise Ltd.",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946690357",
+        "last_time": "946690357",
+        "reps_count": 1,
+        "ssid": [
+          "EasyMeshBH-M2kWC3RNE"
+        ]
+      }
+    ]
+  },
+  {
+    "mac": "50-8F-4C-D2-6C-E7",
+    "timestamp": "946690433",
+    "type_bitmask": 4,
+    "status": "confirmed",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "other": [
+      {
+        "location": "root",
+        "first_time": "946690433",
+        "last_time": "946690433",
+        "reps_count": 1,
+        "ssid": []
+      }
+    ]
+  }
+]
